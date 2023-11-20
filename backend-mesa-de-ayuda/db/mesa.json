@@ -1,0 +1,44 @@
+[
+  {
+    "tituloTicket": "TI002 - Problema test - 1",
+    "descripcion": "asdasdad",
+    "prioridad": "2",
+    "idEmp": "asdasd",
+    "nombre": "asdasd",
+    "correo": "asdasd",
+    "telefono": "213132",
+    "resuelto": "Si"
+  },
+  {
+    "tituloTicket": "TI002 - Daño de memoria - 2",
+    "descripcion": "Alrededor de las 12 del medio dia, hoy 15 de octubre, mi equipo presentó una falla técnica relacionada con los componentes hardware, al revisarlo, todo funciona bien pero el disco duro no se ve en funcionamiento.",
+    "prioridad": "1",
+    "idEmp": "1231231",
+    "nombre": "Jhon Fernando Rodriguez",
+    "correo": "jhonfer@email.com",
+    "telefono": "3124121212",
+    "resuelto": "Si",
+    "solucion": "Se actualiza el Hardware con un disco de estado solido de 1 tb de espacio para almacenamiento"
+  },
+  {
+    "tituloTicket": "TI002 - Fallas en el aplicativo Gestor Doc - 3",
+    "descripcion": "Alrededor de la 1 de la tarde, hoy 16 de octubre, el aplicativo organizacional gestor-doc presentó fallas al ingresar",
+    "prioridad": "3",
+    "idEmp": "122222",
+    "nombre": "Jhon Restrepo",
+    "correo": "jhonRes@email.com",
+    "telefono": "3129081212",
+    "resuelto": "No"
+  },
+  {
+    "tituloTicket": "TI002 - problema de servidor - 4",
+    "descripcion": "server problem",
+    "prioridad": "3",
+    "idEmp": "1111111",
+    "nombre": "jjjjjjjjj",
+    "correo": "asasd",
+    "telefono": "12312321",
+    "resuelto": "Si",
+    "solucion": "se da la solucion"
+  }
+]

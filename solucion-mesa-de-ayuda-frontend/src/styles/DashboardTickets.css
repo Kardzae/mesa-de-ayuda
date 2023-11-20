@@ -1,0 +1,9 @@
+.tickets-no-solved{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(124, 200, 219);
+    border-radius: 20px;
+    padding: 20px;
+    float: left;
+    margin: 10px;
+}
